@@ -1,4 +1,0 @@
-{
-  "filename": "demo4.md",
-  "__html": "<h1>THIS IS MY 1st HEADLINE</h1>\n<h2>THIS IS MY 2cd HEADLINE</h2>\n<h3>THIS IS MY 3rd HEADLINE</h3>\n<h4>THIS IS MY 4th HEADLINE</h4>\n<h5>THIS IS MY 5th HEADLINE</h5>\n<h6>THIS IS MY 6th HEADLINE</h6>\n<p>####### this is my 7th headline?</p>\n<p>链接：<a href=\"https://baike.baidu.com/item/markdown/3245829?fr=aladdin\">markdown</a>click here</p>\n<p>bold：<strong>bold</strong>  <em>倾斜倾斜倾斜倾斜倾斜倾斜倾斜倾斜</em></p>\n<p>==high light does not work==    one line end==i'm two space==。</p>\n<p>*list 1</p>\n<p>*list 2</p>\n<blockquote>\n<p>引用内容</p>\n</blockquote>\n<p><code>alert(&quot;hello world!&quot;)</code></p>\n<hr>\n<p>-[方框]-</p>\n"
-}

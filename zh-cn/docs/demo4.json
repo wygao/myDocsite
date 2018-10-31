@@ -1,4 +1,0 @@
-{
-  "filename": "demo4.md",
-  "__html": "<h1>这是我的一级标题</h1>\n<h2>这是我的二级标题</h2>\n<h3>这是我的三级标题</h3>\n<h4>这是我的四级标题</h4>\n<h5>这是我的五级标题</h5>\n<h6>这是我的六级标题</h6>\n<p>####### 这是我的七级标题</p>\n<p>链接：<a href=\"https://baike.baidu.com/item/markdown/3245829?fr=aladdin\">markdown</a>点击这里</p>\n<p>图片：\n<img src=\"../../img/wulihuge.jpg\" alt=\"\">\n加粗：<strong>粗体</strong>如此  <em>倾斜倾斜倾斜倾斜倾斜倾斜倾斜倾斜</em></p>\n<p>==高亮不起作用==    一行结束输入两个空格==我是两个空格==。</p>\n<p>*列表1</p>\n<p>*列表2</p>\n<blockquote>\n<p>引用内容</p>\n</blockquote>\n<p><code>alert(&quot;hello world!&quot;);</code>\n<code>void main(int argc, char **argv){ prinf(&quot;Hello World!\\n&quot;); &lt;/br&gt; }</code></p>\n<pre><code class=\"language-void\">        return;\n    }\n</code></pre>\n<p>|---|---|</p>\n<hr>\n<p>-[方框]-</p>\n"
-}
